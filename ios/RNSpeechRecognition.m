@@ -1,5 +1,5 @@
 #import <Speech/Speech.h>
-#import "RCTBridge.h"
+#import <React/RCTBridge.h>
 #import "RNSpeechRecognition.h"
 #import "RNSRSpeechToText.h"
 
